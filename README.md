@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EliWilkinson
 - 👀 I’m interested in sports, finance, and crypto
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything I find interesting
 - 📫 How to reach me eli.wilkinson9@gmail.com
 
 <!---
