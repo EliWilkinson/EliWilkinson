@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliWilkinson
 - 👀 I’m interested in sports, finance, and poker
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, SQL
 - 💞️ I’m looking to collaborate on anything I find interesting
 - 📫 How to reach me eli.wilkinson9@gmail.com
 
